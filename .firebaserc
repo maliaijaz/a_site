@@ -1,5 +1,6 @@
 {
   "projects": {
-    "aliaijaz": "ali-aijaz"
+    "aliaijaz": "ali-aijaz",
+    "default": "ali-aijaz"
   }
 }
